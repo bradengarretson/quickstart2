@@ -3,8 +3,9 @@ languageCode: "en-us"
 title: "Braden Garretson"
 theme: hugo-profile
 
-ignoreErrors = ["error-remote-getjson"]
-
+ignoreErrors:
+  - "error-remote-getjson"
+  
 outputs:
   home:
     - "HTML"
