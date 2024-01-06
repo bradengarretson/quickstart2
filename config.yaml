@@ -164,10 +164,18 @@ params:
               I am a senior Physics major at Purdue University doing research with the Time Domain Astronomy group ran by Professor Danny Milisavljevic. 
               My research centers on developing machine learning tools for processing the extensive data from all-sky surveys like the upcoming Vera Rubin Observatory. 
               Specifically, I focus on developing classification methods, anomaly detection, and rapid model inference for supernovae in an effort to improve real-time 
-              recommendations by telescope reccomendation systems such as the [Recommender Engine For Intelligent Transient Tracking (REFITT)](https://refitt.physics.purdue.edu/).
+              recommendations by telescope reccomendation systems such as the [Recommender Engine For Intelligent Transient Tracking (REFITT)](https://refitt.physics.purdue.edu/). 
+
+              Research Interests
+              - Time Domain Astronomy
+              - Supernovae
+              - X-ray Astronomy
+              - Machine Learning
+
+               
     skills:
-      enable: true
-      title: "Research Interests"
+      enable: false
+      title: "Research Interests:"
       items:
         - "Time Domain Astronomy"
         - "Supernovae"
