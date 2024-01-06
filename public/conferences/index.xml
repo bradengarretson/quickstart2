@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/conferences/</link>
+    <description>Recent content in Conferences on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2023 07:22:35 -0500</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AAS 243 - New Orleans</title>
+      <link>https://hugo-profile.netlify.app/conferences/aas_243/</link>
+      <pubDate>Fri, 29 Dec 2023 07:22:35 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/conferences/aas_243/</guid>
+      <description>Join Me at AAS 243 in New Orleans!
+I&amp;rsquo;m excited to share my research at the American Astronomical Society&amp;rsquo;s 243rd meeting in New Orleans. Don&amp;rsquo;t miss my poster presentation on:
+Rapid Supernova Model Inference using Amortized Posterior Estimation In my poster presentation, I&amp;rsquo;ll dive into the new frontier of speeding up supernova model inference using neural networks. Upcoming all sky surveys, such as the Vera Rubin Observatory, will provide the oppertunity to investigate hundreds of thousands of supernovae in real time.</description>
+    </item>
+    
+  </channel>
+</rss>
